@@ -39,7 +39,7 @@ rt.title
 
 -- Add Retrieved Information into a New Table
 
-INTO unique_titles_three
+INTO unique_titles
 
 -- But Exclude Employees Who Have Left the Company
 
