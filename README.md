@@ -42,7 +42,7 @@ Are there enough Retirees to Mentor the Next Generation?
 
 * There are 1,549 Potential Mentees at Pewlett-Hackard while there are over 72,458 Potential Retirees.
 
-* Thus there is more than enough Retirees to mentee the next generation; just not enough mentees to replace the previous generation. 
+* Thus, there is more than enough Retirees to mentee the next generation; just not enough mentees to replace the previous generation. 
 
 ### Additional Querries & Tables
 
