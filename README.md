@@ -26,6 +26,8 @@ Faced with a high rate of impending retirements, Pewlett-Hackard must ensure tha
 
 ## Summary
 
+The outlook for Pewlett-Hackard looks in dire need of address. With an influx of retirees seeking to leave the company, the need for Pewlett-Hackard to hire new qualified replacements as well as mentor those already employed will be of upmost importance. 
+
 ### Filling Roles
 
 How Many Positions Will Need to Be Filled at Pewlett-Hackard?
