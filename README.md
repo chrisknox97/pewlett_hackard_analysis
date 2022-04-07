@@ -8,9 +8,9 @@
 
 ### Retiring Employees by Title
 
-By combining Data within Pewlett-Hackard's ``.CSV`` files for ``Employees`` and ``Titles`` we were able to create a single Table from which we could count and analyze potential retirees by job title. The results of this analysis are as follows:
+By combining Data within Pewlett-Hackard's ``.CSV`` files for ``Employees`` and ``Titles`` we were able to create a single table from which we could count and analyze potential retirees by job title. The results of this analysis are as follows:
 
-* Pewlett-Hackard should expect, in the imminent future, an influx of retirements in two departments: Senior Engineer and Senior Staff. 
+* Pewlett-Hackard should expect, in the imminent future, an influx of retirements in two departments: ``Senior Engineer`` and ``Senior Staff``. 
 
 * Pewlett-Hackard does not have enough ``Engineers`` (9,285) nor ``Staff`` (7,636) to simply promote and replace their retiring ``Senior Engineers`` (25,916) and ``Senior Staff`` (24,926); let alone the dearth such a move would create in the now vacant ``Engineer`` and ``Staff`` positions. 
 
@@ -18,11 +18,9 @@ By combining Data within Pewlett-Hackard's ``.CSV`` files for ``Employees`` and 
 
 ### Mentorship Elgibility 
 
-Faced with a high rate of impending retirements, Pewlett-Hackard must ensure that its future employees can maintain the same level of productivity throughout its upcoming transition period. 
+Faced with a high rate of impending retirements, Pewlett-Hackard must ensure that its future employees can maintain the same level of productivity throughout its upcoming transition period. As such, Pewlett-Hackard's ``.CSV`` files for ``Employees``, ``Department of Employees`` and ``Titles`` were combined to create a single table from which we could analyze potential mentorships. The results of this analysis are as follows:
 
-As such, Pewlett-Hackard's ``.CSV`` files for ``Employees``, ``Department of Employees`` and ``Titles`` were combined to create a single Table from which we could analyze potential mentorships. The results of this analysis are as follows:
-
-* Pewlett-Hackard has only 1,549 potential mentees while it is potentially losing 25 times that in both its ``Senior Engineer`` and ``Senior Staff`` Departments. 
+* Pewlett-Hackard has only 1,549 potential mentees while it is potentially losing 25 times that in both its ``Senior Engineer`` and ``Senior Staff`` Departments alone. 
 
 * Pewlett Hackard's greatest batch of potential mentees is in its ``Staff`` Department (436) with the ``Engineering`` Department having 291 potential mentees; both drastically below necessary replacemnt levels. 
 
@@ -50,4 +48,4 @@ Are there enough Retirees to Mentor the Next Generation?
 
 * Create a new table to ``count`` to number of potential mentees by department. 
 
-* Create a new table of potential retirees, limiting the scope to those born in 1954 and 1955, to better ensure the next generation recieves a longer and more thorough mentorship. 
+* Create a new table of potential retirees, limiting the scope to those born in 1954 and 1955, to determine which retireees could provide a longer and more thorough mentorship to the next generation. 
