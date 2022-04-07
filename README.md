@@ -20,7 +20,7 @@ By combining Data within Pewlett-Hackard's ``.CSV`` files for ``Employees`` and 
 
 ### Mentorship Elgibility 
 
-<img align="right" src="https://github.com/chrisknox97/pewlett_hackard_analysis/blob/main/Additional_PNG/mentorship_count.png" height="300">
+<img align="right" src="https://github.com/chrisknox97/pewlett_hackard_analysis/blob/main/Additional_PNG/mentorship_count.png" height="280">
 
 Faced with a high rate of impending retirements, Pewlett-Hackard must ensure that its future employees can maintain the same level of productivity throughout its upcoming transition period. As such, Pewlett-Hackard's ``.CSV`` files for ``Employees``, ``Department of Employees`` and ``Titles`` were combined to create a single table from which we could analyze potential mentorships. The results of this analysis are as follows:
 
