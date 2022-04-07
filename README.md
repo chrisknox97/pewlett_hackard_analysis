@@ -34,7 +34,7 @@ The outlook for Pewlett-Hackard looks in dire need of address. With an influx of
 
 ### Filling Roles
 
-How Many Positions Will Need to Be Filled at Pewlett-Hackard?
+**How Many Positions Will Need to Be Filled at Pewlett-Hackard?**
 
 * There are 72,458 Potential Retirees/ Positions to be Filled at Pewlett-Hackard. 
 
@@ -42,7 +42,7 @@ How Many Positions Will Need to Be Filled at Pewlett-Hackard?
 
 ### The Next Generation
 
-Are there enough Retirees to Mentor the Next Generation?
+**Are there enough Retirees to Mentor the Next Generation?**
 
 * There are 1,549 Potential Mentees at Pewlett-Hackard while there are over 72,458 Potential Retirees.
 
