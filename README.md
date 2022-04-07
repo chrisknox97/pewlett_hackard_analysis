@@ -7,7 +7,8 @@
 ## Pewlett Hackard Results
 
 ### Retiring Employees by Title
-<img align="right" src="https://github.com/chrisknox97/pewlett_hackard_analysis/blob/main/Additional_PNG/retirement_count.png">
+
+<img align="right" src="https://github.com/chrisknox97/pewlett_hackard_analysis/blob/main/Additional_PNG/retirement_count.png" height="300">
 
 By combining Data within Pewlett-Hackard's ``.CSV`` files for ``Employees`` and ``Titles`` we were able to create a single table from which we could count and analyze potential retirees by job title. The results of this analysis are as follows:
 
